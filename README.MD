@@ -37,10 +37,10 @@ Metrics such as accuracy, precision, and f1-scores were considered. For class-wi
 
 # Authors
 
-Halla
-Saeed
-Waiz
-Rumisal
+1. Halla
+2. Saeed
+3. Waiz
+4. Rumisal
 
 # Disclaimer
 
