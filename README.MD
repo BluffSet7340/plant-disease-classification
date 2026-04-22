@@ -29,7 +29,7 @@ For training, we used the categorical crossentropy loss function and the Adam op
 3. SVM
 4. Artificial Neural Network
 5. ResNet
-6. Covolutional Neural Network
+6. Convolutional Neural Network
 
 # Evaluating the Models
 
